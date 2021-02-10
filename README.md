@@ -1,0 +1,2 @@
+# This repository probably won't make sense
+So, this is a project written in the rust language used to solve a challenge i was given, i only published this to github as either a reminder for myself on how rust works, or just to prove i'm capable of writing a bit in rust i guess? Either way, this exists now :)
