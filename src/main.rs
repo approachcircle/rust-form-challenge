@@ -1,5 +1,3 @@
-//this is a remake in rust of the formChallenge cpp project
-//located at D:\CPP\src\formChallenge.
 //variable and project name stylising has been changed from camelCase to snake_case
 //to comply with rust's cargo crate syntax.
 fn main() {
